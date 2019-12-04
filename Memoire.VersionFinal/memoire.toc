@@ -1,0 +1,35 @@
+\babel@toc {french}{}
+\contentsline {section}{\numberline {0.1}Introduction}{3}% 
+\contentsline {chapter}{\numberline {1}Mod\IeC {\'e}lisation comportementale}{7}% 
+\contentsline {section}{\numberline {1.1}Introduction}{7}% 
+\contentsline {section}{\numberline {1.2}Simulation des cl\IeC {\^o}tures et versements}{10}% 
+\contentsline {subsection}{\numberline {1.2.1}La base Stock\_Pel}{16}% 
+\contentsline {section}{\numberline {1.3}Mod\IeC {\`e}le de comportement des \IeC {\'e}pargnants}{18}% 
+\contentsline {subsection}{\numberline {1.3.1}Estimateur de Nadaraya-Watson}{20}% 
+\contentsline {subsubsection}{Choix du Noyau $K$.}{22}% 
+\contentsline {subsubsection}{Choix de la fen\IeC {\^e}tre de lissage.}{23}% 
+\contentsline {subsubsection}{Le nappe comportemental}{29}% 
+\contentsline {subsection}{\numberline {1.3.2}Erreurs de la r\IeC {\'e}gression non param\IeC {\'e}trique}{30}% 
+\contentsline {subsection}{\numberline {1.3.3}Mod\IeC {\`e}le sans caract\IeC {\'e}ristiques individuelles de contrats}{32}% 
+\contentsline {section}{\numberline {1.4}Conclusions}{35}% 
+\contentsline {chapter}{\numberline {2}Calcul de la provision \IeC {\'e}pargne}{39}% 
+\contentsline {section}{\numberline {2.1}Introduction}{39}% 
+\contentsline {section}{\numberline {2.2}Le mod\IeC {\`e}le de Taux}{41}% 
+\contentsline {section}{\numberline {2.3}Calibration du mod\IeC {\`e}le $G2++$}{44}% 
+\contentsline {subsubsection}{Exemple de calibration.}{46}% 
+\contentsline {section}{\numberline {2.4}Calcul de la provision.}{49}% 
+\contentsline {subsection}{\numberline {2.4.1}Cas de population homog\IeC {\`e}ne}{61}% 
+\contentsline {section}{\numberline {2.5}Provision avec inclusion des r\IeC {\'e}sidus}{63}% 
+\contentsline {section}{\numberline {2.6}Preuve de la proposition \ref {CONV_LIMIT}}{67}% 
+\contentsline {section}{\numberline {2.7}Conclusions}{69}% 
+\contentsline {chapter}{Bibliographie}{73}% 
+\contentsline {chapter}{\numberline {A}Plan d'\IeC {\'E}pargne Logement}{75}% 
+\contentsline {section}{\numberline {A.1}Plans d\IeC {\textquoteright }\IeC {\'e}pargne logement.}{75}% 
+\contentsline {section}{\numberline {A.2}Constitution de la Provision}{80}% 
+\contentsline {chapter}{\numberline {B}Taux d'int\IeC {\'e}r\IeC {\^e}ts}{83}% 
+\contentsline {chapter}{\numberline {C}Code python}{85}% 
+\contentsline {section}{\numberline {C.1}client.py}{85}% 
+\contentsline {section}{\numberline {C.2}get\_data.py}{92}% 
+\contentsline {section}{\numberline {C.3}regression\_non\_paramtrique.py}{96}% 
+\contentsline {section}{\numberline {C.4}gpp.py}{99}% 
+\contentsline {section}{\numberline {C.5}pel.py}{108}% 
